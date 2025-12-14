@@ -79,4 +79,4 @@ Actualmente, el repositorio incluye scripts de administración esenciales:
 
 Para instrucciones detalladas sobre la instalación, requisitos y ejecución del script `wazuh_reset_password.sh`, haz clic en el siguiente enlace:
 
-[**Ver el Modo de Uso Detallado aquí**](./MODO_DE_USO_SCRIPT.md)
+[**Ver el Modo de Uso Detallado aquí**](./USAGE.md)
