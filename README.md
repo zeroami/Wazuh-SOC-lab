@@ -68,3 +68,15 @@ sudo ./wazuh-install.sh -a
   ```
     
     *Nota: El script instala Wazuh Manager, OpenSearch Indexer y OpenSearch Dashboard.*
+
+## 🛠️ Utilidades de Administración
+
+Actualmente, el repositorio incluye scripts de administración esenciales:
+
+* **`wazuh_reset_password.sh`**: Script para automatizar el restablecimiento de la contraseña del usuario `admin` del Wazuh Dashboard.
+
+### 📖 Cómo usar el script
+
+Para instrucciones detalladas sobre la instalación, requisitos y ejecución del script `wazuh_reset_password.sh`, haz clic en el siguiente enlace:
+
+[**Ver el Modo de Uso Detallado aquí**](./MODO_DE_USO_SCRIPT.md)
